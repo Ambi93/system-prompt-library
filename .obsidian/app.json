@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 16,
+  "showLineNumber": false,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "nativeMenus": false,
+  "translucency": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Prompts",
+  "attachmentFolderPath": "./",
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "defaultViewMode": "source",
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true
+}

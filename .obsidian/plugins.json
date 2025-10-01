@@ -1,0 +1,19 @@
+{
+  "plugins": {
+    "dataview": true,
+    "templater": true
+  },
+  "pluginSettings": {
+    "dataview": {
+      "enableInlineDataview": true,
+      "enableInlineQueries": true,
+      "enableJavascriptQueries": false
+    },
+    "templater": {
+      "template_folder": "Templates",
+      "trigger_on_file_creation": false,
+      "auto_jump_to_cursor": true,
+      "enable_system_commands": true
+    }
+  }
+}

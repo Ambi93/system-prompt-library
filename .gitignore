@@ -1,0 +1,16 @@
+# Obsidian workspace files (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
